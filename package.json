@@ -1,0 +1,26 @@
+{
+  "name": "story_time",
+  "version": "1.0.0",
+  "description": "A web-based game inspired by the one word story game",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megarage9000/Story_Time.git"
+  },
+  "keywords": [
+    "React",
+    "HTML/CSS",
+    "WebSockets",
+    "Text-based",
+    "Game"
+  ],
+  "author": "John Ordoyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megarage9000/Story_Time/issues"
+  },
+  "homepage": "https://github.com/megarage9000/Story_Time#readme"
+}
